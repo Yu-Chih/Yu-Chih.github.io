@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Mechanical Design"
+    url: /mech/
+  - title: "System control"
+    url: /control/
+  - title: "Robotics"
+    url: /robotics/
+  - title: "Publications"
+    url: /pub/
   - title: "About"
-    url: /about/
+    url: /
