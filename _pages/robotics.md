@@ -4,7 +4,7 @@ title: "Robotics Projects"
 layout: single
 toc: true
 gallery:
-  - image_path: /assets/images/GUI.jpg
+  - image_path: /assets/images/GUI.JPG
     alt: "GUI"
   - image_path: /assets/images/RoboDK.jpg
     alt: "Robot simulation"
