@@ -8,17 +8,17 @@ gallery:
   - image_path: /assets/images/cart.jpg
     alt: "cart"
     title: "Air-propelled cart"
-  - image_path: /assets/images/cfd.png
+  - image_path: /assets/images/cfd.PNG
     alt: "ANSYS analysis"
     title: "Propelling force simulation"
 gallery2:
   - image_path: /assets/images/fan_compilation.jpg
     alt: "fan"
 gallery3:
-  - image_path: /assets/images/CAM_tooling_path.jpg
+  - image_path: /assets/images/CAM_tooling_path.JPG
     alt: "CAM tooling path"
 gallery4:
-  - image_path: /assets/images/CAM_product.jpg
+  - image_path: /assets/images/CAM_product.JPG
     alt: "CAM product"
 ---
 <style>
