@@ -62,7 +62,4 @@ p + ul {
 note: local potential field showed in bot2 perspective</ul>
 </ul>
 </div>
-<video class="displayed" width="480" height="360" controls muted>
-<source src="/assets/files/Local potential map.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe class="displayed" width="480" height="360" src="https://www.youtube.com/embed/4PEOY7kIq1k" title="Local potential map" frameborder="0"></iframe>

@@ -10,7 +10,7 @@ author_profile: true
     /* font-weight:700; */
     font-size: 18px;
 }
-video.displayed {
+iframe.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
@@ -28,10 +28,7 @@ p + ul {
 <li>Demo video: </li>
 </ul>
 </div>
-<video class="displayed" width="167" height="297" controls muted>
-<source src="/assets/files/LQR_controller.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe class="displayed" height="180px" src="https://www.youtube.com/embed/ZvjIXAaXdI0" title="SC42045 LQR controller (controller 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ### Motor position and speed control
 <div class="default">
@@ -42,7 +39,4 @@ Your browser does not support the video tag.
 <li>Demo video (L-shaped load inverted pendulum): </li>
 </ul>
 </div>
-<video class="displayed" width="216" height="384" controls muted>
-<source src="/assets/files/Inverted_Pendulum.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe class="displayed" height="180px" src="https://www.youtube.com/embed/UHyqaVW4SHQ" title="Inverted Pendulum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
