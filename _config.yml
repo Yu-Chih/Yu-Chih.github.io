@@ -17,8 +17,8 @@ title: Personal Website
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website of Yu-Chih Huang.
-# twitter_username: username
-# github_username: username
+twitter_username: username
+github_username: Yu-Chih
 minimal_mistakes_skin: default
 search: false
 
